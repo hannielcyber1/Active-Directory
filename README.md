@@ -2,7 +2,7 @@
 --------------------------------------
 ## 📌 Overview
 
-This project is a hands-on **Active Directory (AD) Home Lab** designed to simulate a small enterprise network for cybersecurity training, monitoring, and attack simulation. The lab combines Windows infrastructure, centralized logging, and offensive security tools to provide practical experience with both **Blue Team** and **Red Team** operations.
+This project is a hands-on **Active Directory (AD) Home Lab** designed to simulate a small enterprise network for attack simulation, threat detection, log analysis, and security monitoring using Splunk. The lab combines Windows infrastructure, centralized logging, and offensive security tools to provide practical experience with both **Blue Team** and **Red Team** operations as well as develop skills in Windows administration, Networking, Endpoint monitoring, and SOC operations.
 
 The environment is built on the `192.168.8.0/24` network and includes:
 
