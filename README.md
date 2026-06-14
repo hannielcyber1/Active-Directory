@@ -50,6 +50,6 @@ To improve visibility and monitoring, **Sysmon** and **Splunk Universal Forwarde
 ---
 ## 📷 Lab Diagram
 
-![Homelab](images/ActiveDirectoryLab.png)
+![Homelab](images/ADLAB.png)
 
 ---
